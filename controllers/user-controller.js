@@ -1,4 +1,3 @@
-const { USVString } = require('webidl-conversions');
 const { User, Thought } = require('../models');
 
 const userController = {
