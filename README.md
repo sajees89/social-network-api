@@ -24,7 +24,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ## Screenshot
 
-
+![screenshot](https://github.com/sajees89/social-network-api/blob/main/img/Social%20Network%20SS.png)
 
 ## Demonstration
 
